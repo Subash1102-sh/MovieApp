@@ -1,9 +1,9 @@
-body {
-	background: #141414;
+.body {
+	background: teal;
 	
 }
 
-.movie-app > .row {
+.movies > .row {
 	overflow-x: auto;
 	flex-wrap: nowrap;
 }
